@@ -1,5 +1,5 @@
 <html>
 <body>
-GitRepo1
+Linia dodana przez Kacper/Łaszkiewicz/Laszki
 </body>
 </html>
